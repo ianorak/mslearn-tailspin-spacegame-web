@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ianorak/Phoenix21/_apis/build/status/ianorak.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ianorak/Phoenix21/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
